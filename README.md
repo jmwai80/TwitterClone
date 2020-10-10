@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/jmwai80/TwitterClone/blob/master/VedioWalkThrough_Assgn3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Peek<Linux>](https://github.com/phw/peek).
 
 ## Notes
 
